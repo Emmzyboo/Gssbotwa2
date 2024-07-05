@@ -22,7 +22,7 @@
 },
     "SESSION_ID": {
       "description": "Put Your Session ID",
-      "required": true,
+      "required": false,
       "value": ""
     },
     "TYPEMENU": {
